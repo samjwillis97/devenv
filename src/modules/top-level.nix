@@ -65,6 +65,7 @@ in
     ./redis.nix
     ./mysql.nix
     ./mongodb.nix
+    ./timescale.nix
     ./pre-commit.nix
     ./info.nix
     ./scripts.nix
